@@ -37,7 +37,7 @@ int main()
    /* if(n%2==0)
     {
         last=(n/2)-1;
-        begin=((n+1)/2);
+        begin=(n/2);  //earlier made separated ways for both odd and even cases
     }
     else{
         last=(n/2)-1;
